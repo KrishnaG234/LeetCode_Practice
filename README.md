@@ -9,19 +9,23 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 ## Prefix Sum
 |  |
@@ -30,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0731-my-calendar-ii) |
 ## String
 |  |
