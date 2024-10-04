@@ -10,6 +10,7 @@
 | [0432-all-oone-data-structure](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,9 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
