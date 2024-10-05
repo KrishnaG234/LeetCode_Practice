@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -47,5 +48,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
