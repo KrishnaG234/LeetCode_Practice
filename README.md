@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -42,6 +43,7 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -80,9 +83,14 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
