@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -59,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -82,6 +85,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
