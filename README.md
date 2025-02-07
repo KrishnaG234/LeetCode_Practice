@@ -7,6 +7,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -31,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -49,10 +51,12 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
