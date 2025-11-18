@@ -35,6 +35,7 @@
 | [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1497-design-a-stack-with-increment-operation) |
