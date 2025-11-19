@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Math
