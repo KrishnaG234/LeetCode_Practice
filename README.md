@@ -110,4 +110,13 @@
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1236-n-th-tribonacci-number) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
