@@ -48,6 +48,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/1236-n-th-tribonacci-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KrishnaG234/LeetCode_Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
